@@ -1,3 +1,5 @@
+//package com.javaexamples.day1;
+
 import java.util.Scanner;
 	public class AddNum{
 		
